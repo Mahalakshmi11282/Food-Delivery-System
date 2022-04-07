@@ -1,0 +1,17 @@
+Inputs:
+
+1.)For first input:
+Enter the Restaurant name: A
+Enter the Destination point: B
+
+
+2.)For second input:(order from the same restaurant in a short duration)
+Enter the Restaurant name: A
+Enter the Destination point: B
+
+3.)For other inputs:
+Enter the Restaurant name: A
+Enter the Destination point: B
+
+
+
